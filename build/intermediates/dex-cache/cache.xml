@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\working\NotificationScreen\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="E:\working\NotificationScreen\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-991619325ee5c267f13f75421e9cd73d0a613818.jar" />
+    </item>
+    <item
+        jar="E:\working\NotificationScreen\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="E:\working\NotificationScreen\app\build\intermediates\pre-dexed\debug\classes-d083d2aa2bebd018abbab96ca857f223cfcc15f1.jar" />
+    </item>
+    <item
+        jar="E:\working\NotificationScreen\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="E:\working\NotificationScreen\app\build\intermediates\pre-dexed\debug\classes-a4d74af7d52bc77f96351ca2e0b9eaf2e1acf61b.jar" />
+    </item>
+    <item
+        jar="D:\Android\adt-bundle-windows-x86_64-20140321\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="E:\working\NotificationScreen\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-d611296738505b70dbc98a2695b5a0ed1a1562c0.jar" />
+    </item>
+    <item
+        jar="E:\working\NotificationScreen\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="E:\working\NotificationScreen\app\build\intermediates\pre-dexed\debug\classes-a2e70dc4a89f6834a4f12de7d8ca7c5abcad7622.jar" />
+    </item>
+
+</items>
